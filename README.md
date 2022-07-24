@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zheng Han
+### Hi there! 👋 I'm Zheng Han
 
 - 🔭 I’m currently a master student in Upenn, majoring in Computer and Information Science.
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
