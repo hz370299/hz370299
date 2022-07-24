@@ -3,7 +3,7 @@
 - 🔭 I’m currently a master student in Upenn, majoring in Computer and Information Science.
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
 - ⚡ Fun fact: I like pets, but I never had one.
-- And here's my [another Github account](https://github.com/hz37021999) , which records some projects during my undergraduate stage. 
+- And here's my [another Github account](https://github.com/hz37021999) , which records some of the projects during my undergraduate stage. 
 
 Tech: 
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=Java)
