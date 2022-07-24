@@ -1,11 +1,6 @@
 ### Hi there 👋 I'm Zheng Han
 
-<!--
-**hz370299/hz370299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently a master student in Upenn, majoring in Computer and Information Science.
-<!-- 
-**- 🌱 I’m currently learning ...
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
 - ⚡ Fun fact: I like pets, but I never had one.
 - And here's my [another account](https://github.com/hz37021999) , which records some projects during my undergraduate stage. 
