@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently a master student in Upenn, majoring in Computer and Information Science.
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
-- ⚡ Fun fact: Used to be a chess athlete in middle school, then retired because of too much homework.
 - And here's my [another Github account](https://github.com/hz37021999) , which records some of the projects during my undergraduate stage. 
 
 Tech: 
