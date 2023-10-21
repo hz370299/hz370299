@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Zheng Han
 
-- 🔭 I’m currently a master student in Upenn, majoring in Computer and Information Science.
+- 🔭 I’m currently prusuing a master degree in **Computer and Information Science** at the **University of Pennsylvania**. I will graduate in Dec 2023.
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
 - And here's my [another Github account](https://github.com/hz37021999) , which records some of the projects during my undergraduate stage. 
 
