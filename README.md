@@ -4,6 +4,7 @@
 - 📫 Welcome reaching out to me: [Linkedin](https://www.linkedin.com/in/zheng-han-06151a226/).
 - And here's my [another Github account](https://github.com/hz37021999) , which records some of the projects during my undergraduate stage. 
 
+<!---
 Tech: 
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=Java)
 ![C/C++](https://img.shields.io/badge/-cpp-orange?style=flat-square&logo=Cpp)
@@ -22,3 +23,5 @@ Tech:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-yellow?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-green?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github)
+-->
+
